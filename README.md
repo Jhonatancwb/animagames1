@@ -1,1 +1,2 @@
-# animagames1
+# animagames
+Estudo de JavaScript para Mobile.
